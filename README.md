@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-praneeth-tanniru" alt="sai-praneeth-tanniru" /></a> </p>
 
-- 🔭 I’m currently working on **AI Interview Simulator**
+- 🔭 I’m currently working on **Chat Application**
 
 - 🌱 I’m currently learning **MERN stack and Gen AI**
 
